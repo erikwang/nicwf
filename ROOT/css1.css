@@ -1,0 +1,171 @@
+.block {
+	background-color: #CCCCCC;
+	padding: 2px;
+	border: 1px solid #000000;
+	margin: 5px;
+}
+.txmain {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	margin: 2px;
+	border: 1px solid #003366;
+}
+.tfblock {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	border: 1px solid #003366;
+}
+.tfblocktwitterframe {
+	border: 1px solid #003366;
+	height: 600px
+}
+
+
+
+.btn {
+	height: 25px;
+	width: 60px;
+}
+
+.bottxt {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 12px;
+}
+
+
+.txmaintitle {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	background-image: url(img/bg_nav1.gif);
+	background-repeat: repeat-x;
+	height: 48px;
+	font-size: 14px;
+}
+.tfblockbg {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	border: 1px solid #003366;
+	background-image: url(img/bg.gif);
+	color: #FFFFFF;
+}
+
+.tfblockbg1 {
+
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	border: 1px solid #003366;
+	background-image: url(img/bg1.gif);
+	color: #FFFFFF;
+}
+a:link {
+	color: #003366;
+	text-decoration: none;
+}
+a:visited {
+	color: #003366;
+	text-decoration: none;
+}
+a:hover {
+	text-decoration: underline;
+	color: #FF0000;
+}
+a:active {
+	color: #FF0000;
+}
+.line1 {
+	background-image: url(img/line11.jpg);
+	background-repeat: repeat-x;
+}
+.txmainnew {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	margin: 5px;
+	border: 1px solid #999999;
+	padding: 5px;
+	background-color: #FFFFCC;
+	height: auto;
+	width: auto;
+}
+.f {
+	margin: -15px;
+	height: auto;
+	width: auto;
+}
+.sebox {
+
+
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	margin: 5px;
+	border: 1px solid #999999;
+	padding: 5px;
+	background-color: #99CCFF;
+	height: 100px;
+	width: 100px;
+}
+.txmainnew2 {
+
+
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	margin: 5px;
+	border: 1px solid #999999;
+	padding: 5px;
+	background-color: #FFCCCC;
+	height: auto;
+	width: auto;
+}
+.txmainnew1 {
+
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	margin: 5px;
+	border: 1px solid #999999;
+	padding: 5px;
+	background-color: #FFCC99;
+	height: auto;
+	width: auto;
+}
+.txmainnewad {
+
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	margin: 5px;
+	border: 1px solid #999999;
+	padding: 5px;
+	background-color: #CCFFCC;
+	height: auto;
+	width: auto;
+}
+.txbtn {
+
+
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	margin: 5px;
+	border: 1px solid #999999;
+	padding: 5px;
+	background-color: #CCCCCC;
+	height: auto;
+	width: auto;
+}
+.txbtn1 {
+
+
+
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	margin: 5px;
+	border: 1px solid #999999;
+	padding: 5px;
+	background-color: #FFFFFF;
+	height: auto;
+	width: auto;
+}
+.tfblockbg2 {
+
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	border: 1px solid #003366;
+	background-image: url(img/bg2.gif);
+	color: #FFFFFF;
+}
